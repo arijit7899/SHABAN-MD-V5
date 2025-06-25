@@ -1,14 +1,14 @@
 {
-  "name": "SHABAN-MD",
-  "description": "Javascript WhatsApp bot made by 𝐌𝐑 𝐒𝐇𝐀𝐁𝐀𝐍",
+  "name": "⏤꯭͟͟͞͞⎯⃝❥͡🇲𝐑-🇴 𝐑𝐈 🥵💗➤",
+  "description": "Javascript WhatsApp bot made by ⏤꯭͟͟͞͞⎯⃝❥͡🇲𝐑-🇴 𝐑𝐈 🥵💗➤",
   "logo": "https://i.ibb.co/mCfPfmJL/shaban-md.jpg",
-  "keywords": ["SHABAN-MD"],
+  "keywords": ["⏤꯭͟͟͞͞⎯⃝❥͡🇲𝐑-🇴 𝐑𝐈 🥵💗➤"],
   "success_url": "/",
 
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "SHABAN-MD~y0JixCKJ#fc48UbFPWPF4fng-rjikvtNYo_xoVaZ31rCPCEbpAWM",
       "required": true,
       "value": ""
     },  
@@ -98,7 +98,7 @@
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SHABAN-MD V5"
+      "value": "⏤꯭͟͟͞͞⎯⃝❥͡🇲𝐑-🇴 𝐑𝐈 🥵💗➤"
 
      },
      
